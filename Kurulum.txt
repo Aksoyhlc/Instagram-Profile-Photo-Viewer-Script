@@ -1,0 +1,19 @@
+Bu script Udemy üzerinde ki "PHP Gelişmiş Script Yapımı | 7 Adet Profesyonel Script Yazma" kursu için hazırlanmıştır.
+Bu scriptin nasıl yapıldığını öğrenmek istiyorsanız aşağıda ki linkten kursu satın alabilirsiniz.
+
+Kurs Linki: https://www.udemy.com/course/php-gelismis-script-yapimi-profesyonel-script-yazma-kursu/
+
+-----------------------------------------
+
+Aksoyhlc Instagram Profil Fotoğrafı Büyültme Ve Kullanıcı Bilgilerini Alma Scripti
+Demo Link: http://insta.aksoyhlc.net/
+
+There is no need to installation process, you can start using it directly.
+
+Kurulum işlemi yapmanıza gerek yoktur direkt kullanmaya başlayabilirsiniz.
+
+https://satis.aksoyhlc.net
+
+https://aksoyhlc.net
+
+İndir-Download: http://link.aksoyhlc.net/instagram-direkt
