@@ -1,3 +1,4 @@
 RewriteEngine On
-RewriteCond $1 !^(css|scss|js|vendor|islemler)
-RewriteRule ^([0-9a-zA-Z-_/]+)$ index.php?username=$1 [NC,QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^.*\.(jpg|css|js|gif|png)$ [NC]
+RewriteRule ^(.*)$ index.php?username=$1 [NC,QSA,L]
