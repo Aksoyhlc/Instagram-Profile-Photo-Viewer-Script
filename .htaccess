@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond $1 !^(css|scss|js|vendor|islemler)
+RewriteRule ^([0-9a-zA-Z-_/]+)$ index.php?username=$1 [NC,QSA,L]
